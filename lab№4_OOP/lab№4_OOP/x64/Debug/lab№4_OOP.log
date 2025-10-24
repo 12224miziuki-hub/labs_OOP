@@ -1,0 +1,8 @@
+﻿  lab№4_OOP.cpp
+C:\Users\Home\source\repos\lab№4_OOP\lab№4_OOP\lab№4_OOP.cpp(40,23): warning C4584: 'Sphere': base-class 'Figure' is already a base-class of 'Cube'
+      C:\Users\Home\source\repos\lab№4_OOP\lab№4_OOP\lab№4_OOP.cpp(7,7):
+      see declaration of 'Figure'
+      C:\Users\Home\source\repos\lab№4_OOP\lab№4_OOP\lab№4_OOP.cpp(14,7):
+      see declaration of 'Cube'
+  
+  lab№4_OOP.vcxproj -> C:\Users\Home\source\repos\lab№4_OOP\x64\Debug\lab№4_OOP.exe

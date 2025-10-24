@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\lab\u21164_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6307D92-6157-41F3-918F-130CCB6AD8AF}|lab\u21164_OOP\\lab\u21164_OOP.vcxproj|C:\\Users\\Home\\source\\repos\\lab\u21164_OOP\\lab\u21164_OOP\\lab\u21164_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6307D92-6157-41F3-918F-130CCB6AD8AF}|lab\u21164_OOP\\lab\u21164_OOP.vcxproj|solutionrelative:lab\u21164_OOP\\lab\u21164_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab\u21164_OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\lab\u21164_OOP\\lab\u21164_OOP\\lab\u21164_OOP.cpp",
+              "RelativeDocumentMoniker": "lab\u21164_OOP\\lab\u21164_OOP.cpp",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\lab\u21164_OOP\\lab\u21164_OOP\\lab\u21164_OOP.cpp",
+              "RelativeToolTip": "lab\u21164_OOP\\lab\u21164_OOP.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-23T21:48:53.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
